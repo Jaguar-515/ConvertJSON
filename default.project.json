@@ -13,6 +13,11 @@
       "Roact": {
         "$path": "libraries/Roact/src"
       }
+    },
+
+    "Modules": {
+        "$className": "Folder",
+        "$path": "modules"
     }
   }
 }
