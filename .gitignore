@@ -5,6 +5,3 @@
 # Roblox model files
 /*.rbxmx
 /*.rbxm
-
-# Secret module containing API key(s)
-APIKeys.lua
